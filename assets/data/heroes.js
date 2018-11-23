@@ -957,14 +957,20 @@ module.exports = {
       {
         direction: 'r',
         title: 'React Native: Verdaderas aplicaciones nativas con JavaScript',
-        url: '',
-        thumbnail: ''
+        url: 'https://slides.com/dobleuber/react-native/live',
+        thumbnail: 'https://s3.amazonaws.com/media-p.slid.es/thumbnails/7ccdaf99834281393c1a149f22af1afc/thumb.jpg'
       },
       {
         direction: 'l',
         title: 'Javascript Everywhere: Nativescript',
-        url: '',
-        thumbnail: ''
+        url: 'https://slides.com/dobleuber/native-script/live',
+        thumbnail: 'https://s3.amazonaws.com/media-p.slid.es/thumbnails/6ea0a35104cb0ada970b60b9578d5111/thumb.jpg'
+      },
+      {
+        direction: 'r',
+        title: 'GraphQL Mi Primer API',
+        url: 'https://slides.com/dobleuber/graphql-api',
+        thumbnail: 'https://s3.amazonaws.com/media-p.slid.es/thumbnails/6084fc5c5ece0dbbb8d888b71194d7cd/thumb.jpg?1534935882'
       }
     ]
   },
@@ -972,7 +978,7 @@ module.exports = {
     name: 'Juan David Maldonado',
     username: 'jdmaldonado06',
     twitter: 'https://twitter.com/jdmaldonado06',
-    github: 'https://github.com/jdmaldonado06',
+    github: 'https://github.com/jdmaldonado',
     avatar: 'https://en.gravatar.com/userimage/57278571/9f54708ca5bbc477ea7b219f5d2ce398.jpg?size=200',
     slides: [
       {
@@ -980,6 +986,12 @@ module.exports = {
         title: 'Angular-Meteor-ES6',
         url: 'http://slides.com/jdmaldonado/deck#/',
         thumbnail: 'http://image.slidesharecdn.com/8g7pin3rb61upkzexv4h-signature-09adb4eabd7fc81c611e796990aecec77e47b56b53f92c6b1c2e3263f7c53504-poli-150518082414-lva1-app6891/95/angular-meteor-for-angular-devs-1-638.jpg?cb=1431937650'
+      },
+      {
+        direction: 'l',
+        title: 'PWA + ionic + firebase + oneSignal',
+        url: 'http://slides.com/jdmaldonado/deck-4#/',
+        thumbnail: 'https://s3.amazonaws.com/media-p.slid.es/thumbnails/6e01f3568a018f811300ec8c37f8ef0f/thumb.jpg?1537859595'
       }
     ]
   },
@@ -1340,6 +1352,123 @@ module.exports = {
         title: 'Code & Art',
         url: '',
         thumbnail: ''
+      }
+    ]
+  },
+  erunamojazz: {
+    name: 'C. Daniel Sanchez',
+    username: 'ErunamoJAZZ',
+    twitter: 'https://twitter.com/EruJazz',
+    github: 'https://github.com/ErunamoJAZZ',
+    avatar: 'https://pbs.twimg.com/profile_images/993526471837745153/HhcB3sjs_400x400.jpg',
+    slides: [
+      {
+        direction: 'r',
+        title: 'The next step for Functional Programing in JavaScript',
+        url: 'https://slides.com/erujazz/the-next-step-for-fp-in-javascript',
+        thumbnail: 'https://s3.amazonaws.com/media-p.slid.es/thumbnails/6c8fec3679e05a90a2d5807a8cc35f98/thumb.jpg?1514301581'
+      }
+    ]
+  },
+  jgomez: {
+    name: 'Juliana Gómez',
+    username: 'gomezjuliana',
+    twitter: 'https://twitter.com/gmzjuliana',
+    github: 'https://github.com/gomezjuliana',
+    avatar: 'https://gomezjuliana.files.wordpress.com/2017/10/screenshot-from-2017-07-17-08-09-07.png',
+    slides: [
+      {
+        direction: 'r',
+        title: 'Accessibility is important.. now what?',
+        url: 'https://drive.google.com/open?id=1T1BANZekaOH0z5l11e9_Zb3rMycDbGgk',
+        thumbnail: ''
+      }
+    ]
+  },
+  juandatoro: {
+    name: 'Juan David Restrepo',
+    username: 'juandatoro',
+    twitter: 'https://twitter.com/jdretoro',
+    github: 'https://github.com/juandatoro',
+    avatar: 'https://pbs.twimg.com/profile_images/978797949244370944/x7YNAwSa_400x400.jpg',
+    slides: [
+      {
+        direction: 'r',
+        title: 'React 101',
+        url: 'https://github.com/juandatoro/react101',
+        thumbnail: ''
+      }
+    ]
+  },
+  krank2me: {
+    name: 'Frank Alejandro Betancur',
+    username: 'krank2me',
+    twitter: 'https://twitter.com/KranK2Me',
+    github: 'https://github.com/Krank2me',
+    avatar: 'https://pbs.twimg.com/profile_images/967936276245700613/MPbuW1px_400x400.jpg',
+    slides: [
+      {
+        direction: 'r',
+        title: 'Geolocalización con ionic',
+        url: 'https://github.com/Krank2me/geolocationApp',
+        thumbnail: ''
+      }
+    ]
+  },
+  elyalvarado: {
+    name: 'Ely Alvarado',
+    username: 'elyalvarado',
+    twitter: 'https://twitter.com/elyalvarado',
+    github: 'https://github.com/elyalvarado',
+    avatar: 'https://secure.gravatar.com/avatar/8f4a825085dda7d9ea059838a3d6dcd7.jpg?s=200',
+    slides: [
+      {
+        direction: 'r',
+        title: 'WebAssembly 101',
+        url: 'https://wasm101.surge.sh',
+        thumbnail: 'https://wasm101.surge.sh/thumbnail.png'
+      }
+    ]
+  },
+  manucastrillon: {
+    name: 'Manu Castrillon',
+    username: 'manucastrillonm',
+    twitter: 'https://twitter.com/manucastrillonm',
+    github: 'https://github.com/manucastrillonm',
+    avatar: 'https://avatars2.githubusercontent.com/u/10585946?s=460&v=4',
+    slides: [
+      {
+        direction: 'r',
+        title: 'CSS Houdini',
+        url: 'https://slides.com/manucastrillonm/css-houdini#/',
+        thumbnail: ''
+      },
+      {
+        direction: 'l',
+        title: 'SMACSS',
+        url: 'https://slides.com/manucastrillonm/smacss#/',
+        thumbnail: ''
+      }
+    ]
+  },
+  romelperez: {
+    name: 'Romel Pérez',
+    username: 'romelperez',
+    twitter: 'https://twitter.com/romelperez07',
+    github: 'https://github.com/romelperez',
+    avatar: 'https://secure.gravatar.com/avatar/3f489111102b5a41cf2ce6867508fcdf?size=400',
+    slides: [
+      {
+        direction: 'r',
+        title: 'Testing in JavaScript with Jest',
+        url: 'https://romelperez.com/talks/testing-javascript-jest',
+        thumbnail: 'https://romelperez.com/static/img/romelperez.jpg'
+      },
+      {
+        direction: 'r',
+        title: 'CSS in JS with JSS and React',
+        url: 'https://romelperez.com/talks/css-in-js-with-jss-and-react',
+        thumbnail: 'https://romelperez.com/static/img/romelperez.jpg'
       }
     ]
   }
